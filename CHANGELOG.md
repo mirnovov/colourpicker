@@ -8,3 +8,4 @@
 	* Improved precision during edge cases
 * **Version 1.0.1**: Removed unnecessary entitlement
 * **Version 1.0.2**: Add repo details
+* **Version 1.0.3**: Fix links
