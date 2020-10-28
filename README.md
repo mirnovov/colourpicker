@@ -1,4 +1,4 @@
-<img src="https://novov.neocities.org/images/serve/colourpicker.gif" style="border-radius: 12px;" />
+<img src="https://raw.githubusercontent.com/mirnovov/colourpicker/main/colourpicker.gif" style="border-radius: 12px;" />
 
 The **Colour Picker** Nova extension allows you to insert colours into your HTML, CSS, and Javascript files using the default macOS colour selection dialog. 
 

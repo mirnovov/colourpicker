@@ -7,3 +7,4 @@
 	* Improved performance by switching to JXA backend
 	* Improved precision during edge cases
 * **Version 1.0.1**: Removed unnecessary entitlement
+* **Version 1.0.2**: Add repo details

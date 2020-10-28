@@ -3,11 +3,10 @@
     "name": "Colour Picker",
     "organization": "novov",
     "description": "Select colours using the default macOS colour picker.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "categories": ["commands"],
-    "bugs": {
-        "email": "anon185441@gmail.com"
-    },
+    "bugs": "https://github.com/mirnovov/colourpicker-vue/issues",
+    "repository": "https://github.com/mirnovov/colourpicker",
     "license": "MIT",
     
     "main": "main.js",
