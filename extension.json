@@ -1,0 +1,46 @@
+{
+    "identifier": "novov.colourpicker",
+    "name": "Colour Picker",
+    "organization": "novov",
+    "description": "Select colours using the default macOS colour picker.",
+    "version": "1.0.1",
+    "categories": ["commands"],
+    "bugs": {
+        "email": "anon185441@gmail.com"
+    },
+    "license": "MIT",
+    
+    "main": "main.js",
+        
+    "entitlements": {
+        "process": true
+    },
+    
+    "commands": {
+        "editor": [
+            {
+                "title": "Choose Colour",
+                "command": "novov.colourpicker.changeColour",
+                "shortcut": "cmd-*"
+            }
+        ]
+    },
+    
+    "config": [
+        {
+            "key": "novov.colourpicker.default",
+            "title": "Default colour format",
+            "description": "This will be used if a colour with an extant format is not selected.",
+            "type": "enum",
+            "values": ["Hex", "RGB", "HSL", "Display P3"],
+            "default": "Hex"
+            
+        },
+        {
+            "key": "novov.colourpicker.capitalise",
+            "title": "Capitalise generated hex codes",
+            "type": "boolean",
+            "default": false
+        }
+    ]
+}
