@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/mirnovov/colourpicker/main/colourpicker.gif" style="border-radius: 12px;" />
 
+**NOTE**: As Nova 5 and above includes a native colour picker, this extension will not receive further updates.
+
 The **Colour Picker** Nova extension allows you to insert colours into your HTML, CSS, and Javascript files using the default macOS colour selection dialog. 
 
 ### Usage
@@ -13,4 +15,3 @@ By default, hex colours are generated in lowercase. Select the *Capitalise gener
 ### Limitations
 
 This extension is implemented using JXA and the ```osxascript``` process. Accordingly, modification of alpha channels is not supported.
-

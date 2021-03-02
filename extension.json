@@ -3,7 +3,7 @@
     "name": "Colour Picker",
     "organization": "novov",
     "description": "Select colours using the default macOS colour picker.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "categories": ["commands"],
     "bugs": "https://github.com/mirnovov/colourpicker/issues",
     "repository": "https://github.com/mirnovov/colourpicker",

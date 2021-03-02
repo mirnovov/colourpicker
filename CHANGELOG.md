@@ -9,3 +9,4 @@
 * **Version 1.0.1**: Removed unnecessary entitlement
 * **Version 1.0.2**: Add repo details
 * **Version 1.0.3**: Fix links
+* **Version 1.0.4**: Added depreciation notice
